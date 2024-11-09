@@ -1,6 +1,6 @@
 [project]
 name = "uselib"
-version = "0.0.2"
+version = "0.0.2.1"
 authors = [
   { name="Vladislav117", email="siluetkysta@gmail.com" },
 ]
