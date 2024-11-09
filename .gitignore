@@ -1,2 +1,5 @@
-dist
+/.idea
+/dist
 /src/uselib.egg-info
+/src/test
+/src/uselib/__pycache__
